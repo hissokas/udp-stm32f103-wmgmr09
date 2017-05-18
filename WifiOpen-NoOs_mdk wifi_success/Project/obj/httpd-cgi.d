@@ -1,0 +1,17 @@
+.\obj\httpd-cgi.o: ..\Net\uIP_1_0\apps\webserver\httpd-cgi.c
+.\obj\httpd-cgi.o: ..\Net\uip_1_0\uip\uip.h
+.\obj\httpd-cgi.o: ..\Net\uip_1_0\uip\uipopt.h
+.\obj\httpd-cgi.o: ..\Net\uip_1_0\unix\uip-conf.h
+.\obj\httpd-cgi.o: D:\Keil\ARM\RV31\Inc\inttypes.h
+.\obj\httpd-cgi.o: D:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\httpd-cgi.o: ..\uIP-APP\uip_demo.h
+.\obj\httpd-cgi.o: ..\Net\uip_1_0\uip\uipopt.h
+.\obj\httpd-cgi.o: ..\Net\uip_1_0\uip\psock.h
+.\obj\httpd-cgi.o: ..\Net\uip_1_0\uip\pt.h
+.\obj\httpd-cgi.o: ..\Net\uip_1_0\uip\lc.h
+.\obj\httpd-cgi.o: ..\Net\uip_1_0\uip\lc-switch.h
+.\obj\httpd-cgi.o: ..\Net\uIP_1_0\apps\webserver\httpd.h
+.\obj\httpd-cgi.o: ..\Net\uIP_1_0\apps\webserver\httpd-fs.h
+.\obj\httpd-cgi.o: ..\Net\uIP_1_0\apps\webserver\httpd-cgi.h
+.\obj\httpd-cgi.o: D:\Keil\ARM\RV31\Inc\stdio.h
+.\obj\httpd-cgi.o: D:\Keil\ARM\RV31\Inc\string.h

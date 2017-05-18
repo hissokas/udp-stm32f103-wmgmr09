@@ -1,0 +1,2 @@
+BUILD: [Thrd:Sequence:Type  ] Message
+BUILD: [01:0000000021:WARNN ] f:\2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\Src\Drivers\WifiDriver\UartWifi\System\SysClock.c(14) : warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TIMERPROC'

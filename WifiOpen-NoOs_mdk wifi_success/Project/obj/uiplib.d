@@ -1,0 +1,13 @@
+.\obj\uiplib.o: ..\Net\uIP_1_0\uip\uiplib.c
+.\obj\uiplib.o: ..\Net\uIP_1_0\uip\uip.h
+.\obj\uiplib.o: ..\Net\uIP_1_0\uip\uipopt.h
+.\obj\uiplib.o: ..\Net\uip_1_0\unix\uip-conf.h
+.\obj\uiplib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\obj\uiplib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\uiplib.o: ..\uIP-APP\tcp_demo.h
+.\obj\uiplib.o: ..\Net\uip_1_0\uip\uipopt.h
+.\obj\uiplib.o: ..\Net\uip_1_0\uip\psock.h
+.\obj\uiplib.o: ..\Net\uip_1_0\uip\pt.h
+.\obj\uiplib.o: ..\Net\uip_1_0\uip\lc.h
+.\obj\uiplib.o: ..\Net\uip_1_0\uip\lc-switch.h
+.\obj\uiplib.o: ..\Net\uIP_1_0\uip\uiplib.h

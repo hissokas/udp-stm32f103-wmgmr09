@@ -1,0 +1,29 @@
+TARGETNAME=UartWifiSYSTEM
+TARGETTYPE=LIBRARY
+RELEASETYPE=PLATFORM
+
+TARGETLIBS= \
+	$(_PROJECTROOT)\cesysgen\sdk\lib\$(_TGTCPU)\$(WINCEDEBUG)\coredll.lib \
+	$(_PROJECTROOT)\cesysgen\sdk\lib\$(_TGTCPU)\$(WINCEDEBUG)\ntcompat.lib \
+	$(_PROJECTROOT)\cesysgen\oak\lib\$(_TGTCPU)\$(WINCEDEBUG)\ceddk.lib \
+	$(_PUBLICROOT)\common\oak\lib\$(_TGTCPU)\$(WINCEDEBUG)\rsa32.lib \
+
+EXT_INCLUDES= \
+	..\Bsp\Inc; \
+	..\Bsp\Src; \
+	..\Include; \
+	..\Init; \
+	..\Lib; \
+	..\Misc; \
+	..\Net\LNet; \
+	..\System; \
+	..\Drivers\Wifi\Inc; \
+	..\Drivers\Wifi\IO; \
+	..\Drivers\Wifi\IF; \
+	..\Drivers\Wifi\API; \
+	..\Drivers\Wifi\WLAN; \
+
+SOURCES= \
+	SysClock.c \
+
+

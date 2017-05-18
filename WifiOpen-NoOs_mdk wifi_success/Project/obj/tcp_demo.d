@@ -1,0 +1,14 @@
+.\obj\tcp_demo.o: ..\uIP-APP\tcp_demo.c
+.\obj\tcp_demo.o: ..\Net\uip_1_0\uip\uip.h
+.\obj\tcp_demo.o: ..\Net\uip_1_0\uip\uipopt.h
+.\obj\tcp_demo.o: ..\Net\uip_1_0\unix\uip-conf.h
+.\obj\tcp_demo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\obj\tcp_demo.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\tcp_demo.o: ..\uIP-APP\tcp_demo.h
+.\obj\tcp_demo.o: ..\Net\uip_1_0\uip\uipopt.h
+.\obj\tcp_demo.o: ..\Net\uip_1_0\uip\psock.h
+.\obj\tcp_demo.o: ..\Net\uip_1_0\uip\pt.h
+.\obj\tcp_demo.o: ..\Net\uip_1_0\uip\lc.h
+.\obj\tcp_demo.o: ..\Net\uip_1_0\uip\lc-switch.h
+.\obj\tcp_demo.o: ..\Net\uip_1_0\apps\webserver\httpd.h
+.\obj\tcp_demo.o: ..\Net\uip_1_0\apps\webserver\httpd-fs.h

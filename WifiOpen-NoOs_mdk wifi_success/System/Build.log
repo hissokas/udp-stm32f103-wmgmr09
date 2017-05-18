@@ -1,0 +1,44 @@
+BUILD: [Thrd:Sequence:Type  ] Message
+BUILD: [00:0000000000:PROGC ] Checking for \2.Working-Backup\WINCE500_B113\sdk\bin\i386\srccheck.exe.
+BUILD: [00:0000000001:PROGC ] SrcCheck exit code: 0 (dec).
+BUILD: [00:0000000002:PROGC ] Compile and Link for ARM.
+BUILD: [00:0000000003:PROGC ] Loading F:\2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\Build.dat.
+BUILD: [00:0000000004:PROGC ] Done.
+BUILD: [00:0000000005:PROGC ] Computing include file dependencies:
+BUILD: [00:0000000006:PROGC ] Checking for SDK include directory: F:\2.Working-Backup\WINCE500_B113\sdk\ce\inc.
+BUILD: [00:0000000007:PROGC ] Scan \2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\src\drivers\WifiDriver\UartWifi\System\
+BUILD: [00:0000000008:INFO  ] Will Compile \2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\src\drivers\WifiDriver\UartWifi\System\SysClock.c because target: obj\ARMV4I\retail\SysClock.obj is missing.
+BUILD: [00:0000000009:PROGC ] Saving F:\2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\Build.dat.
+BUILD: [00:0000000010:INFO  ] Done.
+BUILD: [00:0000000011:PROGC ] Compiling \2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\src\drivers\WifiDriver\UartWifi\System\ directory.
+BUILD: [00:0000000012:PROG  ] 'NMAKE.EXE   -i -c BUILDMSG=Stop.  NOLINK=1 NOPASS0=1'
+BUILD: [01:0000000013:INFO  ] makefile.def: BUILDROOT is F:\2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443
+BUILD: [01:0000000014:INFO  ] makefile.def: Including F:\2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\sources.cmn
+BUILD: [01:0000000015:INFO  ] Directory: F:\2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\src\drivers\WifiDriver\UartWifi\System
+BUILD: [01:0000000016:INFO  ] TARGETNAME: UartWifiSYSTEM
+BUILD: [01:0000000017:INFO  ] makefile.def: Including F:\2.Working-Backup\WINCE500_B113\public\common\oak\misc\sources.ReleaseType_PLATFORM
+BUILD: [01:0000000018:PROGC ] Compiling .\SysClock.c
+BUILD: [01:0000000019:INFO  ] cl -nologo   /Gy -Foobj\ARMV4I\retail\SysClock.obj -c -IARM\ -I. -IF:\2.Working-Backup\WINCE500_B113\platform\smdk2443\src\inc -IF:\2.Working-Backup\WINCE500_B113\public\common\oak\drivers\block\msflashfmd\inc -IF:\2.Working-Backup\WINCE500_B113\public\common\sdk\inc -IF:\2.Working-Backup\WINCE500_B113\public\common\oak\inc -IF:\2.Working-Backup\WINCE500_B113\public\common\ddk\inc -I..\Bsp\Inc -I..\Bsp\Src -I..\Include -I..\Init -I..\Lib -I..\Misc -I..\Net\LNet -I..\System -I..\Drivers\Wifi\Inc -I..\Drivers\Wifi\IO -I..\Drivers\Wifi\IF -I..\Drivers\Wifi\API -I..\Drivers\Wifi\WLAN -IF:\2.Working-Backup\WINCE500_B113\sdk\CE\inc -I.\Resource\0411 -Ox -Os -GF -Zi -FdF:\2.Working-Backup\WINCE500_B113\platform\smdk2443\lib\ARMV4I\retail\UartWifiSYSTEM.pdb -DUNICODE -D_UNICODE -DUNDER_CE=500 -D_WIN32_WCE=500 -DWINCEOEM -DWINCEINTERNAL -DWIN32 -DSTRICT -DARM -DARMV4I -D_ARM_   -DINTERNATIONAL -DL0411 -DINTLMSG_CODEPAGE=932 -QRimplicit-import- -W3   -QRarch4T -DTHUMBSUPPORT -QRinterwork-return  F:\2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\src\drivers\WifiDriver\UartWifi\System\.\SysClock.c
+BUILD: [01:0000000020:INFO  ] SysClock.c
+BUILD: [01:0000000021:WARNN ] f:\2.Working-Backup\WINCE500_B113\PLATFORM\SMDK2443\Src\Drivers\WifiDriver\UartWifi\System\SysClock.c(14) : warning C4113: 'void (__cdecl *)(void)' differs in parameter lists from 'TIMERPROC'
+BUILD: [01:0000000022:PROGC ] Linking F:\2.Working-Backup\WINCE500_B113\platform\smdk2443\lib\ARMV4I\retail\UartWifiSYSTEM.lib
+BUILD: [01:0000000023:INFO  ] 	link -lib -out:F:\2.Working-Backup\WINCE500_B113\platform\smdk2443\lib\ARMV4I\retail\UartWifiSYSTEM.lib -machine:thumb @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\nm26E.tmp
+BUILD: [01:0000000024:INFO  ] Stop.
+BUILD: [00:0000000025:PROGC ] Done.
+BUILD: [00:0000000026:PROGC ]                      Files      Warnings      Errors
+BUILD: [00:0000000027:PROGC ] Midl                     0             0           0
+BUILD: [00:0000000028:PROGC ] Resource                 0             0           0
+BUILD: [00:0000000029:PROGC ] Message                  0             0           0
+BUILD: [00:0000000030:PROGC ] Precomp Header           0             0           0
+BUILD: [00:0000000031:PROGC ] C/Cpp/Cxx                1             1           0
+BUILD: [00:0000000032:PROGC ] Assembler                0             0           0
+BUILD: [00:0000000033:PROGC ] Static Libraries         1             0           0
+BUILD: [00:0000000034:PROGC ] Dll's                    0             0           0
+BUILD: [00:0000000035:PROGC ] Exe's                    0             0           0
+BUILD: [00:0000000036:PROGC ] Resx                     0             0           0
+BUILD: [00:0000000037:PROGC ] Csharp Targets           0             0           0
+BUILD: [00:0000000038:PROGC ] Other                    0             0           0
+BUILD: [00:0000000039:PROGC ] 
+BUILD: [00:0000000040:PROGC ] Total                    2             1           0
+BUILD: [00:0000000041:PROGC ] 
+BUILD: [00:0000000042:PROGC ] 1 Warnings,  0 Errors

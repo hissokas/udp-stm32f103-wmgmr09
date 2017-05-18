@@ -1,0 +1,17 @@
+.\obj\httpd-fs.o: ..\Net\uIP_1_0\apps\webserver\httpd-fs.c
+.\obj\httpd-fs.o: ..\Net\uIP_1_0\apps\webserver\httpd.h
+.\obj\httpd-fs.o: ..\Net\uip_1_0\uip\psock.h
+.\obj\httpd-fs.o: ..\Net\uip_1_0\uip\uipopt.h
+.\obj\httpd-fs.o: ..\Net\uip_1_0\unix\uip-conf.h
+.\obj\httpd-fs.o: D:\Keil\ARM\RV31\Inc\inttypes.h
+.\obj\httpd-fs.o: D:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\httpd-fs.o: ..\uIP-APP\uip_demo.h
+.\obj\httpd-fs.o: ..\Net\uip_1_0\uip\uipopt.h
+.\obj\httpd-fs.o: ..\Net\uip_1_0\uip\psock.h
+.\obj\httpd-fs.o: ..\Net\uip_1_0\uip\pt.h
+.\obj\httpd-fs.o: ..\Net\uip_1_0\uip\lc.h
+.\obj\httpd-fs.o: ..\Net\uip_1_0\uip\lc-switch.h
+.\obj\httpd-fs.o: ..\Net\uIP_1_0\apps\webserver\httpd-fs.h
+.\obj\httpd-fs.o: ..\Net\uIP_1_0\apps\webserver\httpd-fsdata.h
+.\obj\httpd-fs.o: ..\Net\uip_1_0\uip\uip.h
+.\obj\httpd-fs.o: ..\Net\uIP_1_0\apps\webserver\httpd-fsdata.c

@@ -1,0 +1,70 @@
+*** Creating Trace Output File '.\obj\WifiOpen.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\uarttrace.o"'
+### List of Objects: adding '".\obj\board_init.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\hw_config.o"'
+### List of Objects: adding '".\obj\startup_stm32f10x_hd.o"'
+### List of Objects: adding '".\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\psock.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_dma.o"'
+### List of Objects: adding '".\obj\stm32f10x_exti.o"'
+### List of Objects: adding '".\obj\stm32f10x_flash.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_spi.o"'
+### List of Objects: adding '".\obj\buzzer.o"'
+### List of Objects: adding '".\obj\console.o"'
+### List of Objects: adding '".\obj\gspi.o"'
+### List of Objects: adding '".\obj\flash.o"'
+### List of Objects: adding '".\obj\led.o"'
+### List of Objects: adding '".\obj\relay.o"'
+### List of Objects: adding '".\obj\uart.o"'
+### List of Objects: adding '".\obj\wifiapiexport.o"'
+### List of Objects: adding '".\obj\wifiapiprivate.o"'
+### List of Objects: adding '".\obj\wificommand.o"'
+### List of Objects: adding '".\obj\wifi_if.o"'
+### List of Objects: adding '".\obj\wifi_hw.o"'
+### List of Objects: adding '".\obj\wlanadapter.o"'
+### List of Objects: adding '".\obj\wlancmd.o"'
+### List of Objects: adding '".\obj\wlaninit.o"'
+### List of Objects: adding '".\obj\wlanmisc.o"'
+### List of Objects: adding '".\obj\wlanpkt.o"'
+### List of Objects: adding '".\obj\timer.o"'
+### List of Objects: adding '".\obj\uip.o"'
+### List of Objects: adding '".\obj\uip_arp.o"'
+### List of Objects: adding '".\obj\uip-fw.o"'
+### List of Objects: adding '".\obj\uiplib.o"'
+### List of Objects: adding '".\obj\uip-neighbor.o"'
+### List of Objects: adding '".\obj\uip-split.o"'
+### List of Objects: adding '".\obj\clock-arch.o"'
+### List of Objects: adding '".\obj\tapdev.o"'
+### List of Objects: adding '".\obj\uip_app.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\sysclock.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\timerx.o"'
+### List of Objects: adding '".\obj\tcp_client_demo.o"'
+### List of Objects: adding '".\obj\tcp_demo.o"'
+### List of Objects: adding '".\obj\tcp_server_demo.o"'
+### List of Objects: adding '".\obj\ad.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\uarttrace.o" ".\obj\board_init.o" ".\obj\core_cm3.o" ".\obj\hw_config.o" ".\obj\startup_stm32f10x_hd.o" ".\obj\stm32f10x_it.o" ".\obj\system_stm32f10x.o" ".\obj\psock.o" ".\obj\stm32f10x_usart.o" ".\obj\misc.o" ".\obj\stm32f10x_dma.o" ".\obj\stm32f10x_exti.o" ".\obj\stm32f10x_flash.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_spi.o" ".\obj\buzzer.o" ".\obj\console.o" ".\obj\gspi.o" ".\obj\flash.o" ".\obj\led.o" ".\obj\relay.o" ".\obj\uart.o" ".\obj\wifiapiexport.o" ".\obj\wifiapiprivate.o" ".\obj\wificommand.o" ".\obj\wifi_if.o" ".\obj\wifi_hw.o" ".\obj\wlanadapter.o" ".\obj\wlancmd.o" ".\obj\wlaninit.o" ".\obj\wlanmisc.o" ".\obj\wlanpkt.o" ".\obj\timer.o" ".\obj\uip.o" ".\obj\uip_arp.o" ".\obj\uip-fw.o" ".\obj\uiplib.o" ".\obj\uip-neighbor.o" ".\obj\uip-split.o" ".\obj\clock-arch.o" ".\obj\tapdev.o" ".\obj\uip_app.o" ".\obj\main.o" ".\obj\sysclock.o" ".\obj\stm32f10x_tim.o" ".\obj\timerx.o" ".\obj\tcp_client_demo.o" ".\obj\tcp_demo.o" ".\obj\tcp_server_demo.o" ".\obj\ad.o" 
+--strict --scatter ".\obj\WifiOpen.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\list\WifiOpen.map" -o .\obj\WifiOpen.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\WifiOpen.axf'
+### ADS-LD Command File: '.\obj\WifiOpen.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\WifiOpen.lnp', Handle=0x000006D4
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\WifiOpen.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

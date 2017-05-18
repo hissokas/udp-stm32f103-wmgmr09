@@ -1,0 +1,79 @@
+*** Creating Trace Output File '.\obj\OS3.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_adc.o"'
+### List of Objects: adding '".\obj\stm32f10x_bkp.o"'
+### List of Objects: adding '".\obj\stm32f10x_can.o"'
+### List of Objects: adding '".\obj\stm32f10x_cec.o"'
+### List of Objects: adding '".\obj\stm32f10x_crc.o"'
+### List of Objects: adding '".\obj\stm32f10x_dac.o"'
+### List of Objects: adding '".\obj\stm32f10x_dbgmcu.o"'
+### List of Objects: adding '".\obj\stm32f10x_dma.o"'
+### List of Objects: adding '".\obj\stm32f10x_exti.o"'
+### List of Objects: adding '".\obj\stm32f10x_flash.o"'
+### List of Objects: adding '".\obj\stm32f10x_fsmc.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_i2c.o"'
+### List of Objects: adding '".\obj\stm32f10x_iwdg.o"'
+### List of Objects: adding '".\obj\stm32f10x_pwr.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_rtc.o"'
+### List of Objects: adding '".\obj\stm32f10x_sdio.o"'
+### List of Objects: adding '".\obj\stm32f10x_spi.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\obj\stm32f10x_wwdg.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\startup_stm32f10x_hd.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\obj\bsp.o"'
+### List of Objects: adding '".\obj\uart1.o"'
+### List of Objects: adding '".\obj\spi_enc28j60.o"'
+### List of Objects: adding '".\obj\enc28j60.o"'
+### List of Objects: adding '".\obj\clock-arch.o"'
+### List of Objects: adding '".\obj\tapdev.o"'
+### List of Objects: adding '".\obj\uip_app.o"'
+### List of Objects: adding '".\obj\uip_appcall.o"'
+### List of Objects: adding '".\obj\os_core.o"'
+### List of Objects: adding '".\obj\os_flag.o"'
+### List of Objects: adding '".\obj\os_mbox.o"'
+### List of Objects: adding '".\obj\os_mem.o"'
+### List of Objects: adding '".\obj\os_mutex.o"'
+### List of Objects: adding '".\obj\os_q.o"'
+### List of Objects: adding '".\obj\os_sem.o"'
+### List of Objects: adding '".\obj\os_task.o"'
+### List of Objects: adding '".\obj\os_time.o"'
+### List of Objects: adding '".\obj\os_tmr.o"'
+### List of Objects: adding '".\obj\os_cpu_a.o"'
+### List of Objects: adding '".\obj\os_cpu_c.o"'
+### List of Objects: adding '".\obj\os_dbg.o"'
+### List of Objects: adding '".\obj\psock.o"'
+### List of Objects: adding '".\obj\timer.o"'
+### List of Objects: adding '".\obj\uip.o"'
+### List of Objects: adding '".\obj\uip_arp.o"'
+### List of Objects: adding '".\obj\uip-fw.o"'
+### List of Objects: adding '".\obj\uiplib.o"'
+### List of Objects: adding '".\obj\uip-neighbor.o"'
+### List of Objects: adding '".\obj\uip-split.o"'
+### List of Objects: adding '".\obj\httpd.o"'
+### List of Objects: adding '".\obj\httpd-cgi.o"'
+### List of Objects: adding '".\obj\httpd-fs.o"'
+### List of Objects: adding '".\obj\http-strings.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\misc.o" ".\obj\stm32f10x_adc.o" ".\obj\stm32f10x_bkp.o" ".\obj\stm32f10x_can.o" ".\obj\stm32f10x_cec.o" ".\obj\stm32f10x_crc.o" ".\obj\stm32f10x_dac.o" ".\obj\stm32f10x_dbgmcu.o" ".\obj\stm32f10x_dma.o" ".\obj\stm32f10x_exti.o" ".\obj\stm32f10x_flash.o" ".\obj\stm32f10x_fsmc.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_i2c.o" ".\obj\stm32f10x_iwdg.o" ".\obj\stm32f10x_pwr.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_rtc.o" ".\obj\stm32f10x_sdio.o" ".\obj\stm32f10x_spi.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_usart.o" ".\obj\stm32f10x_wwdg.o" ".\obj\core_cm3.o" ".\obj\startup_stm32f10x_hd.o" ".\obj\system_stm32f10x.o" ".\obj\main.o" ".\obj\stm32f10x_it.o" ".\obj\bsp.o" ".\obj\uart1.o" ".\obj\spi_enc28j60.o" ".\obj\enc28j60.o" ".\obj\clock-arch.o" ".\obj\tapdev.o" ".\obj\uip_app.o" ".\obj\uip_appcall.o" ".\obj\os_core.o" ".\obj\os_flag.o" ".\obj\os_mbox.o" ".\obj\os_mem.o" ".\obj\os_mutex.o" ".\obj\os_q.o" ".\obj\os_sem.o" ".\obj\os_task.o" ".\obj\os_time.o" ".\obj\os_tmr.o" ".\obj\os_cpu_a.o" ".\obj\os_cpu_c.o" ".\obj\os_dbg.o" ".\obj\psock.o" ".\obj\timer.o" ".\obj\uip.o" ".\obj\uip_arp.o" ".\obj\uip-fw.o" ".\obj\uiplib.o" ".\obj\uip-neighbor.o" ".\obj\uip-split.o" ".\obj\httpd.o" ".\obj\httpd-cgi.o" ".\obj\httpd-fs.o" ".\obj\http-strings.o" --library_type=microlib --strict --scatter ".\obj\OS3.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\list\OS3.map" -o .\obj\OS3.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\OS3.axf'
+### ADS-LD Command File: '.\obj\OS3.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\OS3.lnp', Handle=0x0000024C
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\OS3.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

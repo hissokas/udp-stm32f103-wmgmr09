@@ -1,0 +1,14 @@
+.\obj\uip_arp.o: ..\Net\uIP_1_0\uip\uip_arp.c
+.\obj\uip_arp.o: ..\Net\uIP_1_0\uip\uip_arp.h
+.\obj\uip_arp.o: ..\Net\uIP_1_0\uip\uip.h
+.\obj\uip_arp.o: ..\Net\uIP_1_0\uip\uipopt.h
+.\obj\uip_arp.o: ..\Net\uip_1_0\unix\uip-conf.h
+.\obj\uip_arp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\obj\uip_arp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\uip_arp.o: ..\uIP-APP\tcp_demo.h
+.\obj\uip_arp.o: ..\Net\uip_1_0\uip\uipopt.h
+.\obj\uip_arp.o: ..\Net\uip_1_0\uip\psock.h
+.\obj\uip_arp.o: ..\Net\uip_1_0\uip\pt.h
+.\obj\uip_arp.o: ..\Net\uip_1_0\uip\lc.h
+.\obj\uip_arp.o: ..\Net\uip_1_0\uip\lc-switch.h
+.\obj\uip_arp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
